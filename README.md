@@ -3,10 +3,10 @@
 Esta aplicação reforça os conhecimentos dos principais fundamentos em Node.js para construção de uma API (Application Programming Interface) que segue bons padrões de projeto.
 
 - [Fundamentos do Node.js](#head1)
-- [📚 Principais fundamentos](#head2)
-- [🚀 Tecnologias](#head3)
-- [ℹ️ Executando](#head4)
-- [📝 Licença](#head5)
+  - [📚 Principais fundamentos](#head2)
+  - [🚀 Tecnologias](#head3)
+  - [ℹ️ Executando](#head4)
+  - [📝 Licença](#head5)
 
 ## <span id="head2">📚 Principais fundamentos</span>
 
