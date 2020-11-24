@@ -1,12 +1,14 @@
-# Fundamentos do Node.js
+# <span id="head1">Fundamentos do Node.js</span>
 
 Esta aplicação reforça os conhecimentos dos principais fundamentos em Node.js para construção de uma API (Application Programming Interface) que segue bons padrões de projeto.
 
-## Conhecimentos Obtidos
+- [Fundamentos do Node.js](#head1)
+- [📚 Principais fundamentos](#head2)
+- [🚀 Tecnologias](#head3)
+- [ℹ️ Executando](#head4)
+- [📝 Licença](#head5)
 
-Entre os conhecimentos obtidos, pode-se destacar a importância da correta utilização dos principais fundamentos do Node.js, conforme a tabela abaixo:
-
-### Principais Fundamentos
+## <span id="head2">📚 Principais fundamentos</span>
 
 | Fundamento    | Descrição                          |
 | --------- | ---------------------------------- |
@@ -15,14 +17,14 @@ Entre os conhecimentos obtidos, pode-se destacar a importância da correta utili
 | Models | Define o formato dos dados e sua forma de armazenamento. |
 | Repositories    | Consiste em uma ponte entre nossa aplicação e a fonte de dados, seja ela um banco de dados, um arquivo físico ou qualquer outro meio de persistência de dados da aplicação. Geralmente o Repository possui os métodos comuns de comunicação com uma fonte de dados como listagem, busca, criação, edição, remoção, mas conforme a aplicação cresce o desenvolvedor tende a encontrar outras operações repetitíveis e, com isso, popula o repositório com mais funcionalidades. |
 
-## Tecnologias
+## <span id="head3">🚀 Tecnologias</span>
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Express](https://expressjs.com/)
-- [VS Code][vc]
+- [express](https://expressjs.com/)
+- [vs code][vc]
 
-## Executando
+## <span id="head4">ℹ️ Executando</span>
 
 Para clonar e executar este aplicativo, você precisará de [Git](https://git-scm.com), [Node.js v12.13][nodejs] ou superior + [Yarn v1.19][yarn] ou superior instalado no seu computador.
 
@@ -42,13 +44,13 @@ $ yarn install
 $ yarn dev:server
 ```
 
-## 📝 Licença
+## <span id="head5">📝 Licença</span>
 
 Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/fradeneto/devradar-mobile/blob/master/LICENSE) para obter mais informações.
 
 ---
 
-by Augusto César
+by Augusto César Oliveira 👐🏼
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
